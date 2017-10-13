@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="weblyActivity" targetName="Feature_Extractor_UCF_RGB" />
+      <config projectName="weblyActivity" targetName="Benchmark_UCF_RGB_Stackpair" />
+      <config projectName="weblyActivity" targetName="Benchmark_Thumos14_Recognition" />
+      <config projectName="weblyActivity" targetName="Benchmark_TH14_From_Features" />
+      <config projectName="weblyActivity" targetName="MergeFeatures" />
+      <config projectName="weblyActivity" targetName="Benchmark_UCF_Stack" />
+      <config projectName="weblyActivity" targetName="Thumos14_Features" />
+      <config projectName="feature_extraction" targetName="feat_extraction" />
+      <config projectName="weblyActivity" targetName="calcOpticalFlowmaps" />
+      <config projectName="weblyActivity" targetName="extract_optical_flow_from_video" />
+      <config projectName="weblyActivity" targetName="Benchmark_UCF_RGB_Stack" />
+      <config projectName="weblyActivity" targetName="Benchmark_Localization_window" />
+      <config projectName="weblyActivity" targetName="CalcOpticalFlow" />
+      <config projectName="weblyActivity" targetName="Benchmark_UCFOpticalFlow" />
+      <config projectName="weblyActivity" targetName="SaveVideoFrames" />
+      <config projectName="weblyActivity" targetName="RandomWalk" />
+      <config projectName="weblyActivity" targetName="Benchmark" />
+      <config projectName="weblyActivity" targetName="Validate_UCF_Stack" />
+      <config projectName="feature_extraction" targetName="img_classification" />
+      <config projectName="weblyActivity" targetName="WebVideoSampler5" />
+      <config projectName="weblyActivity" targetName="WebVideoSampler4" />
+      <config projectName="weblyActivity" targetName="WebVideoSampler3" />
+      <config projectName="weblyActivity" targetName="WebVideoSampler2" />
+      <config projectName="weblyActivity" targetName="WebVideoSampler" />
+      <config projectName="weblyActivity" targetName="UCF101OpticalFlow" />
+      <config projectName="weblyActivity" targetName="Feature_Extractor_UCF_Opt" />
+      <config projectName="weblyActivity" targetName="WebVideoClipGenerator" />
+      <config projectName="weblyActivity" targetName="Benchmark_Thumos14" />
+      <config projectName="weblyActivity" targetName="Feature_Extractor_RGB_Opt" />
+      <config projectName="weblyActivity" targetName="ExtractFrames" />
+      <config projectName="weblyActivity" targetName="saveWebVideoFrames" />
+      <config projectName="weblyActivity" targetName="Benchmark_UCF_Stackpair" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a310827-8638-4c95-afbc-3e369a27f2d2" name="Default" comment="" />
+    <ignored path="weblyActivity.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="weblyActivity" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="feat_extraction.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/feat_extraction.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="385" column="38" lean-forward="false" selection-start-line="385" selection-start-column="38" selection-end-line="385" selection-end-column="38" />
+              <folding>
+                <element signature="e#45#77#0" expanded="true" />
+                <element signature="e#178#198#0" expanded="true" />
+                <element signature="e#1406#1434#0" expanded="true" />
+                <element signature="e#7641#7746#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>feature_extraction_net</find>
+      <find>Forward()</find>
+      <find>CPU</find>
+      <find>n_images</find>
+      <find>batch_index</find>
+      <find>num_features</find>
+      <find>blob_by</find>
+      <find>output_blobs</find>
+      <find>output</find>
+      <find>Prediction</find>
+      <find>label_file</find>
+      <find>net_</find>
+      <find>paths</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/include/OpticalFlowCalculator.hpp" />
+        <option value="$PROJECT_DIR$/src/RandomWalk.cpp" />
+        <option value="$PROJECT_DIR$/include/ExtractFeatures.hpp" />
+        <option value="$USER_HOME$/caffe-root/caffe/examples/cpp_classification/classification.cpp" />
+        <option value="$PROJECT_DIR$/src/img_classification.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/feat_extraction.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="26" />
+    <option name="width" value="1280" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="feature_extraction" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="feature_extraction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="feature_extraction" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="feature_extraction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="feature_extraction" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="feature_extraction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="Benchmark" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weblyActivity" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weblyActivity" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weblyActivity" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weblyActivity" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weblyActivity" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weblyActivity" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weblyActivity" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Benchmark" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="Benchmark" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="Benchmark">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Benchmark_Localization_window" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="Benchmark_Localization_window" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="Benchmark_Localization_window">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Benchmark_TH14_From_Features" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="Benchmark_TH14_From_Features" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="Benchmark_TH14_From_Features">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Benchmark_Thumos14" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="Benchmark_Thumos14" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="Benchmark_Thumos14">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Benchmark_Thumos14_Recognition" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="Benchmark_Thumos14_Recognition" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="Benchmark_Thumos14_Recognition">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Benchmark_UCF_RGB_Stack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="Benchmark_UCF_RGB_Stack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="Benchmark_UCF_RGB_Stack">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Benchmark_UCF_RGB_Stackpair" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="Benchmark_UCF_RGB_Stackpair" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="Benchmark_UCF_RGB_Stackpair">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Benchmark_UCF_Stack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="Benchmark_UCF_Stack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="Benchmark_UCF_Stack">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Benchmark_UCF_Stackpair" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="Benchmark_UCF_Stackpair" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="Benchmark_UCF_Stackpair">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Benchmark_UCFOpticalFlow" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="Benchmark_UCFOpticalFlow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="Benchmark_UCFOpticalFlow">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CalcOpticalFlow" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="CalcOpticalFlow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="CalcOpticalFlow">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="calcOpticalFlowmaps" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="calcOpticalFlowmaps" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="calcOpticalFlowmaps">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="extract_optical_flow_from_video" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="extract_optical_flow_from_video" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="extract_optical_flow_from_video">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ExtractFrames" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="ExtractFrames" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="ExtractFrames">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Feature_Extractor_RGB_Opt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="Feature_Extractor_RGB_Opt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="Feature_Extractor_RGB_Opt">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Feature_Extractor_UCF_Opt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="Feature_Extractor_UCF_Opt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="Feature_Extractor_UCF_Opt">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Feature_Extractor_UCF_RGB" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="Feature_Extractor_UCF_RGB" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="Feature_Extractor_UCF_RGB">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MergeFeatures" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="MergeFeatures" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="MergeFeatures">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SaveVideoFrames" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="SaveVideoFrames" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="SaveVideoFrames">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="saveWebVideoFrames" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="saveWebVideoFrames" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="saveWebVideoFrames">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Thumos14_Features" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="Thumos14_Features" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="Thumos14_Features">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="UCF101OpticalFlow" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="UCF101OpticalFlow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="UCF101OpticalFlow">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Validate_UCF_Stack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="Validate_UCF_Stack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="Validate_UCF_Stack">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="WebVideoClipGenerator" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="WebVideoClipGenerator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="WebVideoClipGenerator">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="WebVideoSampler" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="WebVideoSampler" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="WebVideoSampler">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="WebVideoSampler2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="WebVideoSampler2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="WebVideoSampler2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="WebVideoSampler3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="WebVideoSampler3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="WebVideoSampler3">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="WebVideoSampler4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="WebVideoSampler4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="WebVideoSampler4">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="WebVideoSampler5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="WebVideoSampler5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="WebVideoSampler5">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="RandomWalk" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="RandomWalk" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="RandomWalk">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="CPU /Users/nanliu/Documents/master_thesis/ResNet/ResNet-50-model.caffemodel /Users/nanliu/Documents/master_thesis/ResNet/ResNet-50-deploy.prototxt pool5 /Users/nanliu/random_walk_resnet50/90/test.txt /Users/nanliu/random_walk_resnet50/90/90_test/" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="weblyActivity" TARGET_NAME="RandomWalk" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="weblyActivity" RUN_TARGET_NAME="RandomWalk">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="img_classification" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="feature_extraction" TARGET_NAME="img_classification" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="feature_extraction" RUN_TARGET_NAME="img_classification">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="feat_extraction" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="feature_extraction" TARGET_NAME="feat_extraction" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="feature_extraction" RUN_TARGET_NAME="feat_extraction">
+      <envs />
+      <method />
+    </configuration>
+    <list size="33">
+      <item index="0" class="java.lang.String" itemvalue="Application.Benchmark" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Benchmark_Localization_window" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Benchmark_TH14_From_Features" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Benchmark_Thumos14" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Benchmark_Thumos14_Recognition" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Benchmark_UCF_RGB_Stack" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Benchmark_UCF_RGB_Stackpair" />
+      <item index="7" class="java.lang.String" itemvalue="Application.Benchmark_UCF_Stack" />
+      <item index="8" class="java.lang.String" itemvalue="Application.Benchmark_UCF_Stackpair" />
+      <item index="9" class="java.lang.String" itemvalue="Application.Benchmark_UCFOpticalFlow" />
+      <item index="10" class="java.lang.String" itemvalue="Application.CalcOpticalFlow" />
+      <item index="11" class="java.lang.String" itemvalue="Application.calcOpticalFlowmaps" />
+      <item index="12" class="java.lang.String" itemvalue="Application.extract_optical_flow_from_video" />
+      <item index="13" class="java.lang.String" itemvalue="Application.ExtractFrames" />
+      <item index="14" class="java.lang.String" itemvalue="Application.Feature_Extractor_RGB_Opt" />
+      <item index="15" class="java.lang.String" itemvalue="Application.Feature_Extractor_UCF_Opt" />
+      <item index="16" class="java.lang.String" itemvalue="Application.Feature_Extractor_UCF_RGB" />
+      <item index="17" class="java.lang.String" itemvalue="Application.MergeFeatures" />
+      <item index="18" class="java.lang.String" itemvalue="Application.SaveVideoFrames" />
+      <item index="19" class="java.lang.String" itemvalue="Application.saveWebVideoFrames" />
+      <item index="20" class="java.lang.String" itemvalue="Application.Thumos14_Features" />
+      <item index="21" class="java.lang.String" itemvalue="Application.UCF101OpticalFlow" />
+      <item index="22" class="java.lang.String" itemvalue="Application.Validate_UCF_Stack" />
+      <item index="23" class="java.lang.String" itemvalue="Application.WebVideoClipGenerator" />
+      <item index="24" class="java.lang.String" itemvalue="Application.WebVideoSampler" />
+      <item index="25" class="java.lang.String" itemvalue="Application.WebVideoSampler2" />
+      <item index="26" class="java.lang.String" itemvalue="Application.WebVideoSampler3" />
+      <item index="27" class="java.lang.String" itemvalue="Application.WebVideoSampler4" />
+      <item index="28" class="java.lang.String" itemvalue="Application.WebVideoSampler5" />
+      <item index="29" class="java.lang.String" itemvalue="Application.RandomWalk" />
+      <item index="30" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="31" class="java.lang.String" itemvalue="Application.img_classification" />
+      <item index="32" class="java.lang.String" itemvalue="Application.feat_extraction" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a310827-8638-4c95-afbc-3e369a27f2d2" name="Default" comment="" />
+      <created>1485253444858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1485253444858</updated>
+      <workItem from="1485943508199" duration="2087000" />
+      <workItem from="1485946473767" duration="4645000" />
+      <workItem from="1486030184288" duration="7148000" />
+      <workItem from="1486114419245" duration="20978000" />
+      <workItem from="1486293977477" duration="4231000" />
+      <workItem from="1486371963134" duration="160000" />
+      <workItem from="1486910752573" duration="2391000" />
+      <workItem from="1487341154569" duration="39000" />
+      <workItem from="1487937897062" duration="1015000" />
+      <workItem from="1487940342386" duration="580000" />
+      <workItem from="1488281797715" duration="18000" />
+      <workItem from="1493379507577" duration="6990000" />
+      <workItem from="1499783081867" duration="2732000" />
+      <workItem from="1500035663840" duration="1454000" />
+      <workItem from="1501076995835" duration="156000" />
+      <workItem from="1501086798942" duration="1547000" />
+      <workItem from="1501181389481" duration="674000" />
+      <workItem from="1501248198381" duration="329000" />
+      <workItem from="1501251492016" duration="614000" />
+      <workItem from="1501349252070" duration="7984000" />
+      <workItem from="1501489447999" duration="9610000" />
+      <workItem from="1501506281787" duration="14768000" />
+      <workItem from="1501575882515" duration="208000" />
+      <workItem from="1501664373008" duration="2144000" />
+      <workItem from="1501754266527" duration="68000" />
+      <workItem from="1501754339381" duration="77000" />
+      <workItem from="1501768683256" duration="950000" />
+      <workItem from="1501783175809" duration="801000" />
+      <workItem from="1503491410321" duration="2929000" />
+      <workItem from="1503670795850" duration="71000" />
+      <workItem from="1504006295338" duration="57000" />
+      <workItem from="1504018689109" duration="1128000" />
+      <workItem from="1504022538371" duration="31000" />
+      <workItem from="1504529945849" duration="235000" />
+      <workItem from="1504783489014" duration="565000" />
+      <workItem from="1506354221172" duration="1483000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="100897000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="26" width="1280" height="728" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2265625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993559" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/RandomWalk.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/RandomWalk.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/RandomWalk.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/ExtractFeatures.hpp" />
+    <entry file="file://$PROJECT_DIR$/src/RandomWalk.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/ExtractFeatures.hpp" />
+    <entry file="file://$PROJECT_DIR$/src/RandomWalk.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/ExtractFeatures.hpp" />
+    <entry file="file://$PROJECT_DIR$/src/RandomWalk.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/ExtractFeatures.hpp" />
+    <entry file="file://$PROJECT_DIR$/src/RandomWalk.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/ExtractFeatures.hpp" />
+    <entry file="file://$PROJECT_DIR$/src/RandomWalk.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/ExtractFeatures.hpp" />
+    <entry file="file://$PROJECT_DIR$/src/RandomWalk.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/ExtractFeatures.hpp" />
+    <entry file="file://$PROJECT_DIR$/src/RandomWalk.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/ExtractFeatures.hpp" />
+    <entry file="file://$PROJECT_DIR$/src/RandomWalk.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/ExtractFeatures.hpp" />
+    <entry file="file://$PROJECT_DIR$/src/RandomWalk.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/ExtractFeatures.hpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="120" column="76" lean-forward="false" selection-start-line="120" selection-start-column="76" selection-end-line="120" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RandomWalk.cpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="58" lean-forward="false" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RandomWalk.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/ExtractFeatures.hpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RandomWalk.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/ExtractFeatures.hpp" />
+    <entry file="file://$PROJECT_DIR$/FindCaffe.cmake.txt" />
+    <entry file="file://$USER_HOME$/caffe-root/caffe/include/caffe/layers/cudnn_pooling_layer.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/caffe-root/caffe/include/caffe/layers/memory_data_layer.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/caffe-root/caffe/include/caffe/layers/batch_norm_layer.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-795">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Benchmark.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/FeatureExtraction.hpp" />
+    <entry file="file://$PROJECT_DIR$/include/Utils.h" />
+    <entry file="file://$PROJECT_DIR$/include/OpticalFlowCalculator.hpp" />
+    <entry file="file://$PROJECT_DIR$/include/ExtractProbabilities.hpp" />
+    <entry file="file://$PROJECT_DIR$/include/class_information.hpp" />
+    <entry file="file:///usr/local/include/boost/smart_ptr/shared_ptr.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="710" column="0" lean-forward="false" selection-start-line="710" selection-start-column="0" selection-end-line="710" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RandomWalk.cpp" />
+    <entry file="file:///usr/local/include/glog/logging.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-988">
+          <caret line="764" column="8" lean-forward="false" selection-start-line="764" selection-start-column="8" selection-end-line="764" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/caffe-root/caffe/build/include/caffe/proto/caffe.pb.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1378">
+          <caret line="867" column="6" lean-forward="false" selection-start-line="867" selection-start-column="6" selection-end-line="867" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/caffe-root/caffe/include/caffe/blob.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/ExtractFeatures.hpp" />
+    <entry file="file://$USER_HOME$/caffe-root/caffe/examples/cpp_classification/classification.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3660">
+          <caret line="251" column="0" lean-forward="false" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/caffe-root/caffe/include/caffe/net.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="234" column="25" lean-forward="true" selection-start-line="234" selection-start-column="25" selection-end-line="234" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img_classification.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3315">
+          <caret line="221" column="31" lean-forward="false" selection-start-line="221" selection-start-column="14" selection-end-line="221" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/feat_extraction.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="385" column="38" lean-forward="false" selection-start-line="385" selection-start-column="38" selection-end-line="385" selection-end-column="38" />
+          <folding>
+            <element signature="e#45#77#0" expanded="true" />
+            <element signature="e#178#198#0" expanded="true" />
+            <element signature="e#1406#1434#0" expanded="true" />
+            <element signature="e#7641#7746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

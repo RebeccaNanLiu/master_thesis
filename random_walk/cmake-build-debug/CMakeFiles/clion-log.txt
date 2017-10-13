@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/nanliu/feature_extraction
+-- OpenCV INCLUDE DIRS /usr/local/include;/usr/local/include/opencv
+-- OpenCV LINK LIBRARIES opencv_calib3d;opencv_core;opencv_features2d;opencv_flann;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_shape;opencv_stitching;opencv_superres;opencv_video;opencv_videoio;opencv_videostab;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_datasets;opencv_dnn;opencv_dpm;opencv_face;opencv_fuzzy;opencv_hdf;opencv_line_descriptor;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_reg;opencv_rgbd;opencv_saliency;opencv_stereo;opencv_structured_light;opencv_surface_matching;opencv_text;opencv_tracking;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Caffe INCLUDE DIRS /Users/nanliu/caffe-root/caffe/src;/usr/local/include;/Users/nanliu/caffe-root/caffe/build/include;/Users/nanliu/anaconda2/include;/usr/local/include/opencv;/System/Library/Frameworks/Accelerate.framework/Versions/Current/Frameworks/vecLib.framework/Versions/Current/Headers;/Users/nanliu/caffe-root/caffe/include
+-- Caffe LINK LIBRARIES caffe
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/nanliu/feature_extraction/cmake-build-debug
